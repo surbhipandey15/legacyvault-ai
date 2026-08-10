@@ -1,0 +1,6 @@
+{
+  "name": "LegacyVault",
+  "description": "Private digital-legacy and personal-record management system with AI document intelligence, handover verification protocols, and granular privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
